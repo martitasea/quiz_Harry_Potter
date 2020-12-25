@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Harryp";
   font-size: 16px;
-  src: url("/quiz_harry_potter/fonts/HARRYP.TTF");
+  src: url("/quiz_Harry_Potter/fonts/HARRYP.TTF");
   /* src: url("/fonts/HARRYP.TTF"); */
   font-weight: normal;
   font-style: normal;
@@ -9,7 +9,7 @@
 
 /* --------------------------ESTILOS GENERALES------------------------- */
 html {
-  background-image: url(/quiz_harry_potter/img/fondo.jpg);
+  background-image: url(/quiz_Harry_Potter/img/fondo.jpg);
   background-size: cover;
   height: 100vh;
   color: white;
